@@ -1,9 +1,6 @@
-1. User can enter lottery with ETH based on a USD fee
-2. An admin will choose when the lottery is over
-3. The lottery will select a random winner
+# Dex Lottery features:
 
-How do we want test this?
+* User can enter lottery with ETH based on a USD fee
+* An admin will choose when the lottery is over
+* The lottery will select a random winner
 
-1. "mainnet-fork"
-2. "development" with mocks
-3. "testnet"
